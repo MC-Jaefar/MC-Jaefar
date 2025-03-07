@@ -1,4 +1,3 @@
-python english_bot.py
         "YOUTUBE_API": "AIzaSyC1HQ3HHQSzgXdvlm5vZ2gWX0Ubk8GYD-c"
     },
     "عمل": {
